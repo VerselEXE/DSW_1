@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DSW_ProyFinal.props" />
+</Project>
